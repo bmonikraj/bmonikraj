@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - [Data Science Production pipelines — Distributed Design Approach](https://towardsdatascience.com/data-science-production-pipelines-distributed-design-approach-d1e9dd6e6c3b?source=rss-8f216551fea3------2)
 - [Stock Predictions — Intraday Trading](https://towardsdatascience.com/stock-predictions-intraday-trading-e27064884c57?source=rss-8f216551fea3------2)
 - [Diabetes Prediction — Artificial Neural Network Experimentation](https://towardsdatascience.com/diabetes-prediction-artificial-neural-network-experimentation-f4267796443d?source=rss-8f216551fea3------2)
+- [How ‘Big’ should be your Data?](https://towardsdatascience.com/how-big-should-be-your-data-fdace6e627e4?source=rss-8f216551fea3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
