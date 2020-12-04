@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - [DeepAnT — Unsupervised Anomaly Detection for Time Series](https://towardsdatascience.com/deepant-unsupervised-anomaly-detection-for-time-series-97c5308546ea?source=rss-8f216551fea3------2)
 - [Data Science Production pipelines — Distributed Design Approach](https://towardsdatascience.com/data-science-production-pipelines-distributed-design-approach-d1e9dd6e6c3b?source=rss-8f216551fea3------2)
 - [Stock Predictions — Intraday Trading](https://towardsdatascience.com/stock-predictions-intraday-trading-e27064884c57?source=rss-8f216551fea3------2)
-- [Delhi - The Capital of India](https://medium.com/@monikraj/delhi-the-capital-of-india-b76b427203cf?source=rss-8f216551fea3------2)
+- [Diabetes Prediction — Artificial Neural Network Experimentation](https://towardsdatascience.com/diabetes-prediction-artificial-neural-network-experimentation-f4267796443d?source=rss-8f216551fea3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
